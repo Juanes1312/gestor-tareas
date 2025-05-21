@@ -23,6 +23,7 @@ Requisitos previos
 -En la terminal podemos ejecutar el comando "flutter run" y escogemos el emulador para ejecutar la aplicacion o 
  nos podemos dirigir a la vista main y lo ejecutamos por medio del debugger con el icono que se muestra en la foto 
  en este caso visual studio code o presionando F5
+ 
  ![alt text](image-1.png)
 
 
@@ -47,11 +48,15 @@ Patron de arquitectura utilizado
 Ejemplo de uso
 
 -Al ingresar nos vamos a encontrar con el loguin
+
 ![alt text](image-2.png)
+
  alli debemos ingresar las credencias que son "user" y "password" respectivamente
 
 -Al ingresar a la panel nos vamos a encontrar el listado de las tareas  
+
 ![alt text](image-3.png)
+
 en donde podremos observar las tareas que hay con su respectiva informacion cada una 
 
 -El icono del ojo es para visualizarla
@@ -59,4 +64,5 @@ en donde podremos observar las tareas que hay con su respectiva informacion cada
 -El icono inferior derecho con el signo + es para crear una nueva tarea
 -El icono de la parte derecha superior es para desloguearse
 -Y para eliminarla simplemente deslizamos a la derecha y aceptamos el moodal
+
 ![alt text](image-4.png)
